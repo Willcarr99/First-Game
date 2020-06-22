@@ -28,29 +28,29 @@ A first 2-D Adventure RPG. Built with C++ using SDL2, custom assets, and a custo
 
 ## Skills
 
-1.) Blacksmithing
+1.) Mining
 
-2.) Armoring
+2.) Smelting
 
-3.) Smelting
+3.) Blacksmithing
 
-4.) Mining
+4.) Armoring
 
 5.) Skinning
 
-6.) Herb Gathering
+6.) Leatherworking
 
-7.) Alchemy
+7.) Herb Gathering
 
-8.) Fishing
+8.) Alchemy
 
 9.) Enchanting
 
 10.) Fabric Weaving
 
-11.) Cooking
+11.) Fishing
 
-12.) Leatherworking
+12.) Cooking
 
 ## Abilities
 
