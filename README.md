@@ -1,7 +1,7 @@
 # First-Game
 A first 2-D Adventure RPG. Built with C++ using SDL2, custom assets, and a custom GUI.
 
-## Classes
+## Player Classes
 1.) Warrior  - Tank specialist and melee combat.
 
                Health = 100, Stamina = 30
@@ -26,7 +26,7 @@ A first 2-D Adventure RPG. Built with C++ using SDL2, custom assets, and a custo
 
                Health = 65, Mana = 100
 
-## Skills
+## Player Skills
 
 1.) Mining
 
